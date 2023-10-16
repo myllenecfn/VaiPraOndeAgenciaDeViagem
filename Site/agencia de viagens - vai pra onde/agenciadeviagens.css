@@ -1,0 +1,32 @@
+body {
+    color:rgb(13, 14, 14);
+    background-color: #ffd700;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px
+    
+}
+
+a {
+    color: rgb(13, 14, 14)
+    
+}
+
+footer {
+    
+    align-items: center;
+}
